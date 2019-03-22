@@ -1,3 +1,11 @@
-# Welcome to my blog
+# Learning GitHub pages with Jekyll
 
-I'm glad you are here. I plan to talk about ...
+Blah blah.
+
+Did you know,
+
+* 1,
+* 2, and
+* 3?
+
+Well then.
