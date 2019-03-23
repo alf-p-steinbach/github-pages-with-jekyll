@@ -1,6 +1,6 @@
 ---
 title: "A first blog post on GitHub."
-date: YYYY-MM-DD
+date: 2019-03-23
 ---
 
 Blah.
