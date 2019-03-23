@@ -1,4 +1,7 @@
-# A first blog post on GitHub.
+---
+title: "A first blog post on GitHub."
+date: YYYY-MM-DD
+---
 
 Blah.
 
